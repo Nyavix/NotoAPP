@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">NotoAPP</string>
+    <string name="app_name">NotoApp</string>
+    <string name="notoTitle">Noto</string>
+    <string name="add_chapter">Add Chapter</string>
+    <string name="title_activity_chapter">ChapterActivity</string>
+    <string name="title_activity_page">PageActivity</string>
+    <string name="AddButton">Add</string>
+    <string name="chapterText">Enter chapter name...</string>
+    <string name="chapterTextView">chapter #</string>
 </resources>
